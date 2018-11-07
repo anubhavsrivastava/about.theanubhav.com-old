@@ -17,6 +17,6 @@ default_username: theanubhav
 
 # Google-analytics
 google-analytics:
-    id: ''
+    id: 'UA-45109327-3'
 
 exclude: ['package.json', 'src', 'node_modules']
